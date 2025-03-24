@@ -1,1 +1,2 @@
-# LP2cc
+
+print('Hello, world!')
